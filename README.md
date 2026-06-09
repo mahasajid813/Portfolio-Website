@@ -29,6 +29,14 @@ Portfolio Website/
 │── images/
 │── README.md
 
+## Project 
+- Academy Cinema
+- My Website
+- One Page Website
+- Portfolio
+- JavaScript-Projects
+- Portfolio-Website
+
 ## Purpose
 
 The purpose of this project is to practice front-end web development skills and create a professional online portfolio to showcase my work and experience.
